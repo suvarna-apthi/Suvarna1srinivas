@@ -1,46 +1,53 @@
 ### 👋 Hi, I'm Suvarna!
 
-I'm a Data Analyst with a passion for transforming data into actionable insights. My journey in data science and machine learning has equipped me with skills to handle complex datasets, build efficient pipelines, and apply machine learning models to solve real-world problems.
+I’m a forward-thinking Data Analyst with around 2.5 years of experience building automated data pipelines, AI-powered workflows, and scalable analytics systems. I enjoy designing end-to-end data solutions, integrating LLMs into production workflows, and enabling BI teams with real-time, reliable insights.
+
+My work sits at the intersection of data engineering, AI integration, and analytics, and I’m currently growing toward AI Integration Engineering and modern data engineering roles.
 
 🎓 Education & Certifications
-- Advanced Postgraduate Program in Data Science and Machine Learning
-- Certifications: AZ-900 Azure Fundamentals,
-- Badges: Google’s Introduction to Generative AI, Introduction to Large Language Models, Introduction to Responsible AI, Prompt Design in Vertex AI
+- Advanced PGP in Data Science & Machine Learning — NIIT
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- IBM Hadoop Developer – Professional Certification
+Google Badges:
+- Introduction to Generative AI
+- Introduction to Large Language Models
+- Introduction to Responsible AI
+- Prompt Design in Vertex A
 
 
 
 💻 Tech Stack & Skills
-- Languages: Python, SQL
-- Data Processing & Analysis: Pandas, NumPy, 
-- Data Visualization: Matplotlib, Seaborn, Power BI, Tableau
+- Programming & Tools: Python · SQL · JavaScript · Redis · BigQuery · Hadoop · n8n · FastAPI · Flask
+- AI, LLMs & Agentic Workflows: OpenAI API · Gemini 2.0 & Flash 2.5 · Vertex AI · RAG · Parallel Agents · Prompt Engineering, Machine Learning
+- APIs, Integrations & Automation: REST APIs · AWS Seller API · Google Cloud Tasks · Secret Manager · MS Teams API · MCP · ADK
+- Data Engineering: ETL/ELT pipelines · API integrations · Data modeling · Redis caching · Feature engineering · Data quality checks
 - Statistics & Probability: Skilled in statistical analysis and probabilistic modeling
 - Exploratory Data Analysis (EDA): Strong experience in identifying trends, outliers, and insights
 - Natural Language Processing (NLP): Working with text data and NLP models
-- Machine Learning & AI: Scikit-Learn, OpenAI, LLaMA, clustering, predictive modeling
-- Data Engineering: Redis, BigQuery, Flask
 - Cloud: Google Cloud, AWS (Seller API)
 
 📊 Projects
-1. Product Review Sentiment Analysis
-- An NLP-driven project to analyze product reviews, extracting sentiment insights and trends.
-- Tools Used: Python, NLTK, Flask API, openAI, LangChain
-
-2. End-to-End Data Pipeline with Redis and BigQuery
-- Developed a pipeline to ingest, transform, and store data in Redis and BigQuery for real-time usecase.
-- Tools Used: Python, Redis, BigQuery, Flask
+1. MS Teams Automation using Gemini 2.0
+2. Parallel Agentic AI Research System
+3. PDF Data Extraction using Vertex AI 
+4. ML-Based Claim Protestability Prediction 
+5. 4GL to Java Migration Pipeline 
+6. Product & Price Mapping 
+7. End-to-End Review Automation Pipeline
 
 🔍 What I’m Currently Working On
-- Building end-to-end data pipelines with Redis and BigQuery
-- Creating interactive dashboards to visualize key insights
-- Developing APIs in Flask for data retrieval and analysis
+- AI-powered automation systems (Agents, RAG workflows, orchestration)
+- High-volume data pipelines with Redis, BigQuery & cloud-native triggers
+- Real-time dashboards and KPI pipelines
+- Building scalable APIs using Flask and FastAPI
 
 💬 Let’s Connect!
-Got a question about data analysis, machine learning, or tech in general? I’d love to chat!
+I love talking about AI, data engineering, automation, and building intelligent systems.
 - 📧 Email: suvarnasreeramulu77@gmail.com
 - 📄 LinkedIn - https://www.linkedin.com/in/suvarna-apthi-7a5975234/
 
 🌱 Fun Fact:   
-I’m always excited to learn the latest in AI/ML and expand my toolkit with cutting-edge data science practices!
+I’m always exploring new ways to blend AI with data engineering to create smarter, faster, and more autonomous workflows.
 
 
 
